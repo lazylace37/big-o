@@ -1,1 +1,1 @@
-!()[growth.png]
+![](growth.png)
